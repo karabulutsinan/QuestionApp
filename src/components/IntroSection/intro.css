@@ -1,0 +1,14 @@
+/* Styling for the introductory text in the quiz component */
+.intro-p {
+  font-family: "Poppins", sans-serif; /* Set font family to 'Poppins' or a sans-serif font */
+  font-weight: 600; /* Set font weight to 600 for a bold appearance */
+  font-style: italic; /* Apply italic style to the font */
+  color: whitesmoke; /* Set text color to whitesmoke */
+}
+
+/* Styling for the start button in the quiz component */
+.start-btn {
+  background-color: silver; /* Set background color to silver */
+  font-family: "Poppins", sans-serif; /* Set font family to 'Poppins' or a sans-serif font */
+  font-weight: 600; /* Set font weight to 600 for a bold appearance */
+}

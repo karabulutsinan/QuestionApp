@@ -1,0 +1,12 @@
+* {
+  overflow: hidden;
+}
+
+/* Styling for the background gradient of the entire body */
+body {
+  background: linear-gradient(
+    90deg,
+    rgba(131, 58, 180, 1) 0%,
+    rgba(252, 70, 132, 1) 83%
+  );
+}
