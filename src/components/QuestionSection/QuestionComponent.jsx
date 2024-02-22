@@ -88,7 +88,7 @@ const QuestionComponent = () => {
       <div className="col-8 row height-412">
         <div className="col-6">
           <img
-            className="w-100 h-100 max-width-462 border border-secondary border-3 rounded-5 shadow-lg"
+            className="w-100 h-100 max-width-462 border border-secondary border-3 rounded-5"
             src={questionData[currentQuestion].media}
             alt=""
           />
